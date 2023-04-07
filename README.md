@@ -72,3 +72,4 @@ Hint: All four box plots should be within the same figure. Use this Matplotlib d
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average tumour volume for the Capomulin treatment.
 
 2. Plot the linear regression model on top of the previous scatter plot.
+-----End-------
